@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CurioV2 10B Blog</title>
+        <link>https://Design-and-Innovation-2023.github.io/Team10B/blog</link>
+        <description>CurioV2 10B Blog</description>
+        <lastBuildDate>Thu, 20 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Progress Update (2023-07-20)]]></title>
+            <link>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-20-progress-update</link>
+            <guid>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-20-progress-update</guid>
+            <pubDate>Thu, 20 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today’s Progress:]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="todays-progress">Today’s Progress:<a href="#todays-progress" class="hash-link" aria-label="Direct link to Today’s Progress:" title="Direct link to Today’s Progress:">​</a></h2><ul><li><p>Initiated discussions on design iterations for the Curio robot. The primary aim was to add value while still keeping the design affordable and accessible.</p></li><li><p>We strategized and came up with a number of design implementations, aiming to optimize the robot’s functionality and user interaction:</p><ul><li>Face + Speed: A base design using the base features of the smartibot to address the issue with identifying the front of the robot and the speed of the robot</li><li>Smartibot with Curio: Explored the feasibility of integrating Smartibot into Curio. This aims to enhance the design by enabling quicker and more effective design explorations.</li><li>Teapot Design with Phone: Explored the potential of implementing the ‘teapot’ design of the smartibot kit while including a dedicated spot for the user’s phone. This would improve user interaction and extend the capabilities of the robot by leveraging the phone’s sensors.</li><li>Battle Bots: Brainstormed ideas for a ‘Battle Bots’ feature that enables users to add components to the base of the robot using simple household materials.</li><li>Base Plate with Face + Attachments that can Self-Make (Tentative): Contemplated on an innovative base plate design with a ‘face’ and the ability to replace certain components of the robot if faulty using simple household materials given a base plate.</li><li>Challenges: Identifying the balance between innovative design and cost-effectiveness</li></ul></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="upcoming-priorities">Upcoming Priorities:<a href="#upcoming-priorities" class="hash-link" aria-label="Direct link to Upcoming Priorities:" title="Direct link to Upcoming Priorities:">​</a></h2><ul><li>Start sketching out designs based on the ideas that were generated during the meeting.</li><li>Establishing concrete goals and deadlines for each design iteration.</li></ul>]]></content:encoded>
+            <category>progress-update</category>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Pitch 1 (2023-07-20)]]></title>
+            <link>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-20-weekly-pitch-1</link>
+            <guid>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-20-weekly-pitch-1</guid>
+            <pubDate>Thu, 20 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[IMAGE ALT TEXT HERE]]></description>
+            <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=Oz5KXsxkr6E" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://img.youtube.com/vi/Oz5KXsxkr6E/0.jpg" alt="IMAGE ALT TEXT HERE" class="img_ev3q"></a></p>]]></content:encoded>
+            <category>weekly-pitch</category>
+        </item>
+        <item>
+            <title><![CDATA[Progress Update (2023-07-19)]]></title>
+            <link>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-19-progress-update</link>
+            <guid>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-19-progress-update</guid>
+            <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today’s Progress]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="todays-progress">Today’s Progress<a href="#todays-progress" class="hash-link" aria-label="Direct link to Today’s Progress" title="Direct link to Today’s Progress">​</a></h2><ol><li>Split tasks among the team members to maximize efficiency and progress</li><li>Made plans for the prototyping of the curio robot including the initial designs and additional components that can be added to the robot</li><li>Set goals and deadlines to meet in the coming week</li><li>Made arrangements to meet and work on the prototype and project deliverables in the coming days</li></ol>]]></content:encoded>
+            <category>progress-update</category>
+        </item>
+        <item>
+            <title><![CDATA[Progress Update (2023-07-18)]]></title>
+            <link>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-18-progress-update</link>
+            <guid>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-18-progress-update</guid>
+            <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Customer Questions]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="customer-questions">Customer Questions<a href="#customer-questions" class="hash-link" aria-label="Direct link to Customer Questions" title="Direct link to Customer Questions">​</a></h2><ol><li>Who are the target audience</li><li>What are the limitations of the current design, more specific about the speed(functional and non functional requirements)</li><li>What are the limitations of the hardware aspect</li><li>What are the limitations of the aesthetic aspect </li><li>Are the stakeholders of the company aiming for sustainability by using recyclable items</li><li>If a part of the robot is spoilt, can it be easily replace or do we have to change the entire robot</li><li>What is the current lifespan of the product (durability)</li><li>How is it being charged or is it operated by battery lifespan</li><li>What are the type of mobile or devices that can be used on the robot</li></ol>]]></content:encoded>
+            <category>progress-update</category>
+        </item>
+    </channel>
+</rss>

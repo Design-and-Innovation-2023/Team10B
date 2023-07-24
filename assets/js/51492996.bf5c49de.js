@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcuriov2_10b=self.webpackChunkcuriov2_10b||[]).push([[922],{8424:e=>{e.exports=JSON.parse('{"label":"weekly-pitch","permalink":"/Team10B/blog/tags/weekly-pitch","allTagsPath":"/Team10B/blog/tags","count":1}')}}]);
