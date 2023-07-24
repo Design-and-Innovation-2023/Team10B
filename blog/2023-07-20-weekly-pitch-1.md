@@ -1,7 +1,7 @@
 ---
 slug: 2023-07-20-weekly-pitch-1
 title: Weekly Pitch 1 (2023-07-20)
-authors: group10b
+authors: team10b
 tags: [weekly-pitch]
 ---
 

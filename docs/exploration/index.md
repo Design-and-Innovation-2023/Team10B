@@ -8,6 +8,8 @@ By utilizing Smartibot, we construct a robot using the provided design included 
 
 ## Sketches
 
+We sketched this out to find out more about how we can incorporate certain design features of the smartibot into our prototype.
+
 ### Front
 
 ![sketch-front](./img/sketch-front.jpg)

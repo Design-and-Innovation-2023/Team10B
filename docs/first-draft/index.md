@@ -2,16 +2,19 @@
 sidebar_position: 3
 ---
 
-# 1st Draft
+# 1st Drafts
 
-We created our first robot car draft based on what we have discovered from the exploration phase.
+We created our first robot car drafts based on what we have discovered from the exploration phase.
 
 ## Sketches
 
-### Front
+We have sketched some preliminary ideas.
 
-![sketch-front](./img/sketch-front.jpg)
+**Initial Idea 1:**
 
-### Back
+![idea 1](/img/first-draft/idea1.jpg)
 
-![sketch-back](./img/sketch-back.jpg)
+
+**Initial Idea 2:**
+
+![idea 2](/img/first-draft/idea2.jpg)

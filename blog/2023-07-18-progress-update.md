@@ -1,7 +1,7 @@
 ---
 slug: 2023-07-18-progress-update
 title: Progress Update (2023-07-18)
-authors: group10b
+authors: team10b
 tags: [progress-update]
 ---
 
