@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcuriov2_10b=self.webpackChunkcuriov2_10b||[]).push([[255],{7672:e=>{e.exports=JSON.parse('[{"label":"progress-update","permalink":"/Team10B/blog/tags/progress-update","count":4},{"label":"weekly-pitch","permalink":"/Team10B/blog/tags/weekly-pitch","count":1}]')}}]);
