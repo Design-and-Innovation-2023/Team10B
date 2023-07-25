@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 1st Drafts
+# First Draft
 
 We created our first robot car drafts based on what we have discovered from the exploration phase.
 

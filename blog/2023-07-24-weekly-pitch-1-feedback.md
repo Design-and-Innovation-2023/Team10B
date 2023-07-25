@@ -1,6 +1,6 @@
 ---
 slug: 2023-07-24-weekly-pitch-1-feedback
-title: Weekly Pitch 1 Feedback (2023-07-21)
+title: Weekly Pitch 1 Feedback (2023-07-24)
 authors: team10b
 tags: [weekly-pitch]
 ---
