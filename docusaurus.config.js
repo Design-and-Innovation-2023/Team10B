@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "CurioV2 10B",
-  tagline: "Best Robot Car Ever",
+  tagline: "Where Creativity and Technology Meet!",
   favicon: "img/CurioLogo-71x66.png",
 
   // Set the production url of your site here
@@ -46,6 +46,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -73,7 +75,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "designSidebar",
             position: "left",
-            label: "Design",
+            label: "Design Journal",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
@@ -90,7 +92,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Design",
+                label: "Design Journal",
                 to: "/docs/introduction",
               },
             ],

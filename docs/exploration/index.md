@@ -10,6 +10,9 @@ By utilizing Smartibot, we construct a robot using the provided design included 
 
 We sketched this out to find out more about how we can incorporate certain design features of the smartibot into our prototype.
 
+The main concerns of users is whether they can  easily identifying front/back, and the speed of the robot. Smartibot can provide a face to show that it’s the front and it uses a different motor from the curio which makes it faster, addressing the existing concerns faced by users. 
+
+
 ### Front
 
 ![sketch-front](./img/sketch-front.jpg)
@@ -27,3 +30,8 @@ We sketched this out to find out more about how we can incorporate certain desig
 ### Back
 
 ![prototype-back](./img/actual-back.jpg)
+
+
+## Learning point
+
+- Heavier battery pack compared to Curio
