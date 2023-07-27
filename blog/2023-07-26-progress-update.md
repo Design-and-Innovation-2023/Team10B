@@ -18,7 +18,7 @@ tags: [progress-update]
 **Feedback Response**: We received some insightful comments suggesting the creation of an attachable design with various modules. The suggestion to consider using the existing Curio design and create additional attachments was especially interesting. We thought of some ideas in that we could add more holes into the base of the curio robot which allowed for modifications or additional modules to be added to the robot via the holes. This could help encourage students to be more creative with their robot designs.
 
 
-### Teaching Assistant (claretb) Feedback
+## Teaching Assistant (claretb) Feedback
 
 >We agreed that we need to further refine our design to increase its value in facilitating learning. This includes justifying design choices, such as the addition of a adjustable phone stand at the back of the Smartibot.
 
