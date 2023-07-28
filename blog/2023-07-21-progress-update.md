@@ -27,11 +27,11 @@ We sketched this out to find out more about how we can incorporate certain desig
 
 Front view of the smartibot:
 
-![Front view](/img/first-draft/smartibot-front.jpeg)
+![Front view](/img/first-prototype/smartibot-front.jpeg)
 
 Back view of the smartibot:
 
-![Back view](/img/first-draft/smartibot-back.jpeg)
+![Back view](/img/first-prototype/smartibot-back.jpeg)
 
 
 ## Images of Sketches:
@@ -40,9 +40,9 @@ We have sketched some preliminary ideas.
 
 **Initial Idea 1:**
 
-![idea 1](/img/first-draft/idea1.jpg)
+![idea 1](/img/first-prototype/idea1.jpg)
 
 
 **Initial Idea 2:**
 
-![idea 2](/img/first-draft/idea2.jpg)
+![idea 2](/img/first-prototype/idea2.jpg)

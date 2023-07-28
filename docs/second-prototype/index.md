@@ -13,15 +13,15 @@ Based on previous learning points, we came up with a few ideas such as this “r
 
 Front view:
 
-![Front view](/img/second-draft/front.jpeg)
+![Front view](/img/second-prototype/front.jpeg)
 
 Back view:
 
-![Back view](/img/second-draft/back.jpeg)
+![Back view](/img/second-prototype/back.jpeg)
 
 Side view:
 
-![Side view](/img/second-draft/side.jpeg)
+![Side view](/img/second-prototype/side.jpeg)
 
 
 ## Learning points

@@ -23,26 +23,26 @@ Alongside our classroom learnings, we continued to build on our design sketches.
 
 **Top view:**
 
-![Top view](/img/third-draft/top.jpeg)
+![Top view](/img/third-prototype/top.jpeg)
 
 **Attachments:**
 
-![Attachment](/img/third-draft/attachments.jpeg)
+![Attachment](/img/third-prototype/attachments.jpeg)
 
 **Side view:**
 
-![Side](/img/third-draft/side.jpeg)
+![Side](/img/third-prototype/side.jpeg)
 
 **Shield:**
 
-![Shield](/img/third-draft/shield.jpeg)
+![Shield](/img/third-prototype/shield.jpeg)
 
 
 ### Teaching Assistant (claretb) Feedback
 
 Attachments:
 
-![Attachment](/img/third-draft/attachments.jpeg)
+![Attachment](/img/third-prototype/attachments.jpeg)
 
 It really makes sense to create an attachable design with some attachments. In this way the robot can be converted to a race car or a sumo bot or anything you want. One of the most attracting things for me is making some modular thing.
 

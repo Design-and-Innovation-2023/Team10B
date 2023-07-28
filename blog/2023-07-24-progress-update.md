@@ -19,12 +19,12 @@ Overall we felt that our project was on the right track as the our goals and the
 
 Front view:
 
-![Front view](/img/second-draft/front.jpeg)
+![Front view](/img/second-prototype/front.jpeg)
 
 Back view:
 
-![Back view](/img/second-draft/back.jpeg)
+![Back view](/img/second-prototype/back.jpeg)
 
 Side view:
 
-![Side view](/img/second-draft/side.jpeg)
+![Side view](/img/second-prototype/side.jpeg)

@@ -12,12 +12,12 @@ From experimenting with the curio, we realize that weight distribution also affe
 
 **Initial Idea 1:**
 
-![idea 1](/img/first-draft/idea1.jpg)
+![idea 1](/img/first-prototype/idea1.jpg)
 
 
 **Initial Idea 2:**
 
-![idea 2](/img/first-draft/idea2.jpg)
+![idea 2](/img/first-prototype/idea2.jpg)
 
 
 ## Learning points

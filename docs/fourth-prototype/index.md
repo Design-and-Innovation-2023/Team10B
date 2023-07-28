@@ -9,7 +9,7 @@ sidebar_position: 6
 
 We came out with another prototype sketch.
 
-![Sketch](/img/fourth-draft/sketch.jpeg)
+![Sketch](/img/fourth-prototype/sketch.jpeg)
 
 
 ## Prototype
@@ -18,8 +18,8 @@ We use cardboard to make the sketch prototype.
 
 **Front:**
 
-![Attachment](/img/fourth-draft/front-prototype.jpeg)
+![Attachment](/img/fourth-prototype/front-prototype.jpeg)
 
 **Side:**
 
-![Side](/img/fourth-draft/side-prototype.jpeg)
+![Side](/img/fourth-prototype/side-prototype.jpeg)

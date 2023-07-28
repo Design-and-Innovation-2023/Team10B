@@ -12,21 +12,21 @@ we worked on a prototype that gamify the robot to be a battlebot. Students can g
 
 **Top view:**
 
-![Top view](/img/third-draft/top.jpeg)
+![Top view](/img/third-prototype/top.jpeg)
 
 **Attachments:**
 
 The following are some variations on the attachments that will be connected to the servo.
 
-![Attachment](/img/third-draft/attachments.jpeg)
+![Attachment](/img/third-prototype/attachments.jpeg)
 
 **Side view:**
 
-![Side](/img/third-draft/side.jpeg)
+![Side](/img/third-prototype/side.jpeg)
 
 **Shield:**
 
-![Shield](/img/third-draft/shield.jpeg)
+![Shield](/img/third-prototype/shield.jpeg)
 
 ## Learning points
 
