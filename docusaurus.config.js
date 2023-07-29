@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "CurioV2 10B",
-  tagline: "Where Creativity and Technology Meet!",
+  title: "Curio",
+  tagline: "Empowering Innovators: Redesigning Curio",
   favicon: "img/CurioLogo-71x66.png",
 
   // Set the production url of your site here
@@ -65,7 +65,7 @@ const config = {
     ({
       // Replace with your project's social card
       navbar: {
-        title: "CurioV2 10B",
+        title: "Curio",
         logo: {
           alt: "My Site Logo",
           src: "img/CurioLogo-838x775.png",

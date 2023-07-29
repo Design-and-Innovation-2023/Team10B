@@ -9,3 +9,14 @@
   height: 200px;
   width: 200px;
 }
+
+.secondaryContainer {
+  padding: 1rem;
+  background-color: var(--ifm-color-secondary-background);
+}
+
+.primaryContainer {
+  padding: 1rem;
+  background-color: var(--ifm-color-primary);
+  color: var(--ifm-color-content-inverse);
+}

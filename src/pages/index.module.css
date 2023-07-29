@@ -14,10 +14,16 @@
   .heroBanner {
     padding: 2rem;
   }
+
+  .buttons {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 1em;
 }

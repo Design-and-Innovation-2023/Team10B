@@ -19,7 +19,13 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/introduction"
           >
-            Visit Design Journal 🤖
+            Design Journal 📔
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/blog"
+          >
+            Blog 📰
           </Link>
         </div>
       </div>
