@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Design-and-Innovation-2023.github.io/Team10B/blog</id>
-    <title>CurioV2 10B Blog</title>
+    <title>Curio Blog</title>
     <updated>2023-07-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Design-and-Innovation-2023.github.io/Team10B/blog"/>
-    <subtitle>CurioV2 10B Blog</subtitle>
+    <subtitle>Curio Blog</subtitle>
     <icon>https://Design-and-Innovation-2023.github.io/Team10B/img/CurioLogo-71x66.png</icon>
     <entry>
         <title type="html"><![CDATA[Progress Update (2023-07-27)]]></title>
