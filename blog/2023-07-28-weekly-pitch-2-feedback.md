@@ -23,14 +23,17 @@ Attachment idea sounds good, but we want to see **something tested at this stage
 Felt at the edge of the speed conformable to follow what you say. It was a big hard to follow.
 
 **Learned from user**
+
 It felt more like a defense of your choices than an acknowledgement of what was learned. Can you see why I am saying this and the difference between the two?
 
 **Learned from prototype**
+
 **Why would lower center of gravity = more speed?** Just curious on a physics basis I am not sure it make sense or what you are trying to get to.
 
 Prototype 3 felt interesting with the hole on the top of the head to be slided in
 
 **Feedback**
+
 I understand you picked the angle of smartibot mixed with Curio but I am not sure **how feasible what you propose** would be for another person to build.
 
 **What would be a good outcome** for your project? Do you plan to offer the plans of the robot on your website? Maybe a tutorial on how to build it?
