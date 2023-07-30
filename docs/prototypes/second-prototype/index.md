@@ -1,10 +1,10 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
-# Second Prototype
+# 2nd Prototype
 
-We created our second robot design using AutoCAD this time.
+We created our 2nd robot design using AutoCAD this time.
 
 
 ## AutoCAD Sketches

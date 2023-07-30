@@ -96,7 +96,7 @@ export default function HomepageFeatures() {
       </section>
       <section className={clsx(styles.secondaryContainer, styles.features)}>
         <div className="container text--center">
-          <h2>Design Thinking  <b className="text--primary">Process</b></h2>
+          <h2>Design Thinking  <b className="text--primary">Methodogies</b></h2>
           <div className="row">
             {designThinkingList.map((props, idx) => (
               <Design key={idx} {...props} />

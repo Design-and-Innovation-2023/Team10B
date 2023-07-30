@@ -1,11 +1,11 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
 ---
 
 
-# Third Prototype
+# 3rd Prototype
 
-we worked on a prototype that gamify the robot to be a battlebot. Students can go wild in exploring detachable parts or build their own to battle other bots.
+We worked on a prototype that gamify the robot to be a battlebot. Students can go wild in exploring detachable parts or build their own to battle other bots.
 
 
 ## Sketches

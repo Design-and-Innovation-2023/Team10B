@@ -1,10 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# First Prototype
+# 1st Prototype
 
-We designed our first robot car prototype based on what we have discovered from the exploration phase.
+We designed our 1st robot car prototype based on what we have discovered from the exploration phase.
 
 ## Sketches
 
