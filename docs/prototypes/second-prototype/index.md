@@ -23,6 +23,16 @@ Side view:
 
 ![Side view](/img/second-prototype/side.jpeg)
 
+## Videos
+
+The car moving forward.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hGNm1lglI1w/0.jpg)](https://www.youtube.com/shorts/hGNm1lglI1w)
+
+The car doing a 360°turn
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AoEQ69SItyc/0.jpg)](https://www.youtube.com/shorts/AoEQ69SItyc)
+
 
 ## Learning points
 
