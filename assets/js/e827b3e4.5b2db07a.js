@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcuriov2_10b=self.webpackChunkcuriov2_10b||[]).push([[2170],{1217:e=>{e.exports=JSON.parse('{"label":"designer-engagement","permalink":"/Team10B/blog/tags/designer-engagement","allTagsPath":"/Team10B/blog/tags","count":1}')}}]);
