@@ -104,18 +104,6 @@ export default function HomepageFeatures() {
           </div>
         </div>
       </section>
-      <section className={styles.features}>
-        <div className="container text--center">
-          <h2>Meet the Team (10B)</h2>
-          <div className="row" style={{ justifyContent: "center" }}>
-            <img src="img/group-photo.jpg" alt="group-photo" width={`80%`} />
-            <span>
-              From left to right: Alastair Lee Ming Han, Koh Ding Yuan, Lua Zhi
-              Zhan, Mathan S/O Nanthabala, Jared Teo, Ng Jin Rong Ronnie
-            </span>
-          </div>
-        </div>
-      </section>
     </>
   );
 }

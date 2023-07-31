@@ -78,6 +78,7 @@ const config = {
             label: "Design Journal",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/about-us", label: "About Us", position: "left" },
           {
             href: "https://github.com/Design-and-Innovation-2023/Team10B",
             label: "GitHub",
@@ -104,6 +105,7 @@ const config = {
                 label: "Blog",
                 to: "/blog",
               },
+              { to: "/about-us", label: "About Us" },
               {
                 label: "GitHub",
                 href: "https://github.com/Design-and-Innovation-2023/Team10B",
