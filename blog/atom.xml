@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Design-and-Innovation-2023.github.io/Team10B/blog</id>
     <title>Curio Blog</title>
-    <updated>2023-07-28T00:00:00.000Z</updated>
+    <updated>2023-07-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Design-and-Innovation-2023.github.io/Team10B/blog"/>
     <subtitle>Curio Blog</subtitle>
     <icon>https://Design-and-Innovation-2023.github.io/Team10B/img/CurioLogo-71x66.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Progress Update (2023-07-31)]]></title>
+        <id>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-31-progress-update</id>
+        <link href="https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-31-progress-update"/>
+        <updated>2023-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today’s Progress:]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="todays-progress">Today’s Progress:<a href="#todays-progress" class="hash-link" aria-label="Direct link to Today’s Progress:" title="Direct link to Today’s Progress:">​</a></h2><p><strong>Website Development and Usability Testing:</strong></p><p>We made some modifications on our website after conducting usability testing and incorporating feedback received. The website can be accessed here: <!-- -->[Curio]<!-- -->(<a href="https://design-and-innovation-2023.github.io/Team10B/" target="_blank" rel="noopener noreferrer">https://design-and-innovation-2023.github.io/Team10B/</a></p><p><strong>Feedback and Improvements:</strong></p><p>The usability testing, performed by the professor and a student, yielded several constructive comments that allowed us to improve our website’s user experience:</p><ol><li><p><strong>Front page clarity</strong>: Originally, the front page seemed promotional rather than informative. It was also perceived as being too wordy, creating confusion between it being a product page or a blog. We worked on this feedback by streamlining the content and making it more straightforward.</p></li><li><p><strong>GitHub link</strong>: The inclusion of the GitHub link led some users to believe we were promoting an open-source project. We felt that the github link was a useful addition to the website to allow users to find relevant code relating to the curio robot.</p></li><li><p><strong>Project ownership</strong>: It was unclear who was behind the project. We addressed this by adding an about us section on our website.</p></li><li><p><strong>Target audience</strong>: Users were unsure who the robot was designed for.</p></li><li><p><strong>Changes to the robot</strong>: Users were able to identify the changes made to the robot, indicating that our visual presentations were effective.</p></li><li><p><strong>Design journal clarity</strong>: The design journal was missing the process and thinking behind our design decisions. We added the dailies to our website under the blog section to address the issue on the lack of thinking behind our design.</p></li><li><p><strong>Explanation of sketches</strong>: Users wanted to see explanations for our design sketches. The explanations were done on the prototype page.</p></li><li><p><strong>Navigation</strong>: The design of the page didn’t clearly guide users to where they could find the design sketches and ideas. We added a navigation tab at the left side of the design journal page to allow the user to traverse the different pages.)</p></li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="learning-points">Learning Points<a href="#learning-points" class="hash-link" aria-label="Direct link to Learning Points" title="Direct link to Learning Points">​</a></h2><p>We tried our best to address all these points of feedback in the latest iteration of our website. We also better understood the importance of usability testing having experienced it. It allowed us to better understand what the user goes through when browsing our website and their thoughts and actions when interacting with the website. This helps us understand the pain points of our website and make adjustments to enhance the user experience when browsing the website. We will continue to monitor user feedback and make further enhancements as necessary. Usability testing proved to be an invaluable tool in our design process, helping us create a website that is not only user-friendly but also effectively communicates our project’s essence and progress.</p>]]></content>
+        <author>
+            <name>Team 10B</name>
+        </author>
+        <category label="progress-update" term="progress-update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Progress Update (2023-07-28)]]></title>
         <id>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-28-progress-update</id>
