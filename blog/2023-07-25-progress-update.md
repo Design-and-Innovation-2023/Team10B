@@ -21,19 +21,11 @@ tags: [progress-update]
 
 Alongside our classroom learnings, we continued to build on our design sketches.
 
-**Top view:**
-
-![Top view](/img/third-prototype/top.jpeg)
-
-**Attachments:**
+![Core](/img/third-prototype/core-unit.jpg)
 
 ![Attachment](/img/third-prototype/attachments.jpeg)
 
-**Side view:**
-
-![Side](/img/third-prototype/side.jpeg)
-
-**Shield:**
+![servo](/img/third-prototype/servo.jpeg)
 
 ![Shield](/img/third-prototype/shield.jpeg)
 

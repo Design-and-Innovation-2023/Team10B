@@ -40,9 +40,9 @@ We have sketched some preliminary ideas.
 
 **Initial Idea 1:**
 
-![idea 1](/img/first-prototype/idea1.jpg)
+![idea 1](/img/first-prototype/front.jpg)
 
 
 **Initial Idea 2:**
 
-![idea 2](/img/first-prototype/idea2.jpg)
+![idea 2](/img/first-prototype/back.jpg)

@@ -28,3 +28,21 @@ Back view:
 Side view:
 
 ![Side view](/img/second-prototype/side.jpeg)
+
+### Sketch
+
+We have sketched the top view too.
+
+**Top view:**
+
+![Top view](/img/second-prototype/top.jpeg)
+
+## Videos
+
+The car moving forward.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hGNm1lglI1w/0.jpg)](https://www.youtube.com/shorts/hGNm1lglI1w)
+
+The car doing a 360°turn
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AoEQ69SItyc/0.jpg)](https://www.youtube.com/shorts/AoEQ69SItyc)
