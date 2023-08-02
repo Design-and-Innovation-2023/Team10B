@@ -10,6 +10,8 @@ We are Team 10B. We are task to redesign Curio robot, which is a low-cost, web-b
 
 From left to right: Alastair Lee Ming Han, Koh Ding Yuan, Lua Zhi Zhan, Mathan S/O Nanthabala, Jared Teo, Ng Jin Rong Ronnie
 
+Our team reflection of this module can be found [here](/docs/team-reflection)
+
 ## EduCraft
 
 EduCraft is our product (Battlebot) that aims to empower students and educators by providing innovative and engaging educational robotics content. 
