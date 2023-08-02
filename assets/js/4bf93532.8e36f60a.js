@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcuriov2_10b=self.webpackChunkcuriov2_10b||[]).push([[7330],{4274:e=>{e.exports=JSON.parse('{"permalink":"/Team10B/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":16,"previousPage":"/Team10B/blog","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

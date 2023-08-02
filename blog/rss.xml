@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Curio Blog</title>
+        <title>EduCraft Blog</title>
         <link>https://Design-and-Innovation-2023.github.io/Team10B/blog</link>
-        <description>Curio Blog</description>
-        <lastBuildDate>Mon, 31 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <description>EduCraft Blog</description>
+        <lastBuildDate>Tue, 01 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Progress Update (2023-08-01)]]></title>
+            <link>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-08-01-progress-update</link>
+            <guid>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-08-01-progress-update</guid>
+            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today’s Progress:]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="todays-progress">Today’s Progress:<a href="#todays-progress" class="hash-link" aria-label="Direct link to Today’s Progress:" title="Direct link to Today’s Progress:">​</a></h2><p><strong>Consultation Progress:</strong></p><p>We had a constructive consultation session with our professor, focusing on feedback from our video pitch. Below are some of the key takeaways:</p><ol><li><p><strong>Website Instructions</strong>: The professor agreed with our approach of adding assembly instructions to our website. We will continue to enhance the clarity and user-friendliness of these instructions.</p></li><li><p><strong>Battle Bot Explanation</strong>: We were advised to clarify the functionality of our battle bot concept in the website. For example, is the aim of the battlebot to topple another robot? By adding some visual cues such as adding a marker at the end of the arm of the battlebot to show the other battle bot being hit would be helpful.</p></li><li><p><strong>Narrative &amp; Context</strong>: The professor emphasized the importance of providing a clear narrative of what our robot is built for, including an explanation of our design thinking process. For example, we should illustrate how the battle bot is designed to topple other robots.</p></li><li><p><strong>Website comments</strong>: We were advised to look at landing page designs that prominently feature the final product and its video demonstration.</p></li></ol><p>We have also included some images of the prototypes that we have done:</p><p><strong>Prototype 3 (Battlebot):</strong></p><p><img loading="lazy" alt="front-dailies" src="/Team10B/assets/images/front-dailies-a625e1710d10ebd373e86699777058f9.jpeg" width="3000" height="4000" class="img_ev3q"></p><p><img loading="lazy" alt="side-dailies" src="/Team10B/assets/images/side-dailies-ad29dc5cc15757251dc43c5f7c0b9863.jpeg" width="3000" height="4000" class="img_ev3q"></p><p><strong>Prototype 4 (Modular Design):</strong></p><p><img loading="lazy" alt="phone-stand" src="/Team10B/assets/images/phone-stand-8a268d60274da9ffaa94bf655c1fbde8.jpeg" width="3000" height="4000" class="img_ev3q"></p><p><img loading="lazy" alt="disassembled-dailies" src="/Team10B/assets/images/disassembled-dailies-c0f2607fdedbaf8d1263314bb47df8c2.jpeg" width="3000" height="4000" class="img_ev3q"></p><p><img loading="lazy" alt="disassembled2-dailies" src="/Team10B/assets/images/disassembled2-dailies-a9cf7e521f727d713f49946c996e8389.jpeg" width="3000" height="4000" class="img_ev3q"></p>]]></content:encoded>
+            <category>progress-update</category>
+        </item>
         <item>
             <title><![CDATA[Progress Update (2023-07-31)]]></title>
             <link>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-07-31-progress-update</link>
