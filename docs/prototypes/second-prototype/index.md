@@ -61,8 +61,6 @@ The green version
 
 ![Green](/img/second-prototype/green-template.PNG)
 
-
-
 **Guide:**
 
 The guide to build the rovorbot can be found [here](/docs/rover-bot-prototype2-instruction.pdf).

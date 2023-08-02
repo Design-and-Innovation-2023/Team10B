@@ -153,16 +153,6 @@ export default function HomepageFeatures() {
               <Feature key={idx} {...props} />
             ))}
           </div>
-          <div className={styles.prototypeButtons}>
-            <a
-              className="button button--secondary button--lg"
-              href="https://trycurio.com/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Check out Curio ↗️
-            </a>
-          </div>
         </div>
       </section>
       <section className={styles.features}>
