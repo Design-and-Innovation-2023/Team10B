@@ -48,6 +48,21 @@ A rubber band can be slotted into the cramp to hold the device more securely. Th
 
 ### Test
 
+**Template:**
+
+These are examples of the template that we will be providing.
+
+
+The blue version
+
+![Blue](/img/second-prototype/blue-template.PNG)
+
+The green version
+
+![Green](/img/second-prototype/green-template.PNG)
+
+
+
 **Guide:**
 
 The guide to build the rovorbot can be found [here](/docs/rover-bot-prototype2-instruction.pdf).
@@ -56,17 +71,17 @@ The guide to build the rovorbot can be found [here](/docs/rover-bot-prototype2-i
 
 We have physically build the prototype this time to test it using cereal boxes from our breakfast😆. 
 
-**Car moving forward:**
+**Rover moving forward:**
 
 The video shows that the car can move at a regular speed.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hGNm1lglI1w/0.jpg)](https://www.youtube.com/shorts/hGNm1lglI1w)
 
-**Car doing a 360° turn**
+**Rover doing a 360° turn**
 
 This is one of the requirement for Curio bot which is illustrated at the [storyboard page](/docs/methodogies/storyboard).
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AoEQ69SItyc/0.jpg)](https://www.youtube.com/shorts/AoEQ69SIt
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AoEQ69SItyc/0.jpg)](https://www.youtube.com/shorts/AoEQ69SItyc)
 
 ## Learning points
 
