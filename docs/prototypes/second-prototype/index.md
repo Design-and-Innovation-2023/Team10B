@@ -66,11 +66,7 @@ The video shows that the car can move at a regular speed.
 
 This is one of the requirement for Curio bot which is illustrated at the [storyboard page](/docs/methodogies/storyboard).
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AoEQ69SItyc/0.jpg)](https://www.youtube.com/shorts/AoEQ69SItyc)
-
-### Implement
-
-This idea was not chosen as our final prototype.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AoEQ69SItyc/0.jpg)](https://www.youtube.com/shorts/AoEQ69SIt
 
 ## Learning points
 
