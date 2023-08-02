@@ -60,6 +60,12 @@ We have physically build the prototype.
 
 **Videos:**
 
+**Tutorial:**
+
+This is a tutorial video showing how to build this prototype.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/joiJ9Ab7RgI/0.jpg)](https://www.youtube.com/watch?v=joiJ9Ab7RgI)
+
 **Core unit:**
 
 The video shows that the core unit is stable enough to move in all direction despite it being more compact.
