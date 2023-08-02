@@ -12,11 +12,11 @@ From left to right: Alastair Lee Ming Han, Koh Ding Yuan, Lua Zhi Zhan, Mathan S
 
 ## EduCraft
 
-EduCraft is our platform that aims to empower students and educators by providing innovative and engaging educational robotics solutions. 
+EduCraft is our product (Battlebot) that aims to empower students and educators by providing innovative and engaging educational robotics content. 
 
 ![Group Photo](/img/educraft-banner.PNG)
 
-Our focus is on creating affordable and sustainable solutions that promote creativity, critical thinking, and problem-solving skills. Through our product (Battlebot), we hope to inspire a love of learning and make education more accessible to all.
+Our focus is on creating affordable and sustainable robots that promote creativity, critical thinking, and problem-solving skills. Through our product (Battlebot), we hope to inspire a love of learning and make education more accessible to all.
 
 ## Curio
 
