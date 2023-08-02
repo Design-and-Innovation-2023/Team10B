@@ -9,8 +9,8 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_speed.svg").default,
     description: (
       <>
-        We upgrade Curio robot's motor and battery for improved speed and
-        performance using the Smartibot development kit.
+        We took inspiration from the Smartibot to modify the design of the Curio
+        robot, with the goal of improving its speed and performance.
       </>
     ),
   },
@@ -29,7 +29,7 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_features.svg").default,
     description: (
       <>
-        We expand Curio robot's capabilities by adding sensors, cameras, and
+        We expand Curio robot's capabilities by adding customization and
         electronic components using the Smartibot development kit.
       </>
     ),
@@ -111,10 +111,33 @@ export default function HomepageFeatures() {
           <div className={styles.prototypeButtons}>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/prototypes/third-prototype"
+              to="/docs/final-design/battle-bot-tutorial"
             >
-              Find out more 🔍
+              Build This! 🤖
             </Link>
+          </div>
+        </div>
+      </section>
+      <section className={styles.features}>
+        <div className="container text--center">
+          <h2>Battlebot in Action</h2>
+          <div className={styles.prototypeImages}>
+            <iframe
+              height="315"
+              src="https://www.youtube.com/embed/vdqtsNfm6DQ"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+            <iframe
+              height="315"
+              src="https://www.youtube.com/embed/3ekVshR9_Sg"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
           </div>
         </div>
       </section>
@@ -130,11 +153,21 @@ export default function HomepageFeatures() {
               <Feature key={idx} {...props} />
             ))}
           </div>
+          <div className={styles.prototypeButtons}>
+            <a
+              className="button button--secondary button--lg"
+              href="https://trycurio.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Check out Curio ↗️
+            </a>
+          </div>
         </div>
       </section>
       <section className={styles.features}>
         <div className="container text--center">
-          <h2>Methodogies</h2>
+          <h2>Our Methodogies</h2>
           <div className="row">
             {designThinkingList.map((props, idx) => (
               <Design key={idx} {...props} />

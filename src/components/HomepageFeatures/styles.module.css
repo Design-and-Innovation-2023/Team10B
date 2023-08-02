@@ -18,7 +18,11 @@
 }
 
 .prototypeImages img {
-  width: 20%;
+  width: 22%;
+}
+
+.prototypeImages iframe {
+  width: 46%;
 }
 
 .prototypeButtons {
@@ -36,6 +40,10 @@
 
   .prototypeImages img {
     margin-top: 1.5em;
+    width: 90%;
+  }
+
+  .prototypeImages iframe {
     width: 90%;
   }
 
