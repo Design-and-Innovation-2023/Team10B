@@ -25,9 +25,11 @@ We use cardboard to make the sketch prototype.
 
 **Front:**
 
-Wwe drew inspiration from the phone holder design of Curio and enhanced it to make it more stable. Specifically, we added a "kerb" to the front of the holder and widened the "wall" on the side to provide better support for the phone. This design allows for greater flexibility in placing the phone at a desired angle.
+We drew inspiration from the phone holder design of Curio and enhanced it to make it more stable. Specifically, we added a "kerb" to the front of the holder and widened the "wall" on the side to provide better support for the phone. This design allows for greater flexibility in placing the phone at a desired angle.
 
 ![Attachment](/img/fourth-prototype/front-prototype.jpeg)
+
+![phone-stand](/img/fourth-prototype/phone-stand.jpeg)
 
 **Side:**
 
@@ -39,7 +41,6 @@ The video shows how the robot can be disassembled easily.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Xd-ktaxca3k/0.jpg)](https://www.youtube.com/watch?v=Xd-ktaxca3k)
 
-
 ## Learning points
 
-This prototype successfully fulfills our goals of affordability, customizability, and sustainability. However, the design is simpler compared to the [3rd prototype](/docs/prototypes/third-prototype/). Just like the 3rd prototype, we plan to provide blueprint-like templates using cardboard pieces or 3D printable files.
+This prototype successfully fulfills our goals of affordability, versatility, and sustainability. However, the design is more complex to build compared to the [3rd prototype](/docs/prototypes/third-prototype/). Just like the 3rd prototype, we plan to provide blueprint-like templates using cardboard pieces or 3D printable files.

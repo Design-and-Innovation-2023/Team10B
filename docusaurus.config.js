@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Curio",
-  tagline: "Empowering Innovators: Redesigning Curio",
-  favicon: "img/CurioLogo-71x66.png",
+  title: "EduCraft",
+  tagline: "Affordable Robotics Education with Endless Possibilities",
+  favicon: "img/educraft.png",
 
   // Set the production url of your site here
   url: "https://Design-and-Innovation-2023.github.io/",
@@ -65,10 +65,10 @@ const config = {
     ({
       // Replace with your project's social card
       navbar: {
-        title: "Curio",
+        title: "EduCraft",
         logo: {
           alt: "My Site Logo",
-          src: "img/CurioLogo-838x775.png",
+          src: "img/educraft.png",
         },
         items: [
           {
@@ -113,7 +113,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CurioV2 10B, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} EduCraft, Team10B, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -10,6 +10,40 @@
   width: 200px;
 }
 
+.prototypeImages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.prototypeImages img {
+  width: 20%;
+}
+
+.prototypeButtons {
+  margin-top: 1.5rem;
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+  .prototypeImages {
+    flex-direction: column;
+  }
+
+  .prototypeImages img {
+    margin-top: 1.5em;
+    width: 90%;
+  }
+
+  .prototypeButtons {
+    flex-direction: column;
+  }
+}
+
 .secondaryContainer {
   padding: 1rem;
   background-color: var(--ifm-color-secondary-background);

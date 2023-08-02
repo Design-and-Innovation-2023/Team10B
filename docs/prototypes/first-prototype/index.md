@@ -44,10 +44,6 @@ This is the back view of the car. We have designed a base for the battery pack t
 
 After discussing the prototype with our team and client, we have identified some challenges that may make it difficult to build. Specifically, the use of wood as a material and the gear mechanism for tilting the phone stand may prove problematic. Additionally, due to the limitations of the material, the speed of the car may be affected.
 
-### Implement
-
-This idea was not physically implmented.
-
 ## Learning points
 
 The choice of materials used in building a robot is a crucial factor that can affect both the cost and the difficulty of its construction. Additionally, the materials used can impact the robot's speed and stability. To achieve the objectives outlined in the [introduction](/docs/introduction), further efforts are necessary to refine the design.

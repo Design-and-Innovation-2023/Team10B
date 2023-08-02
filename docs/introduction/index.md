@@ -10,14 +10,14 @@ By documenting our process, we aim to gain insights, learn from our mistakes, an
 
 ## Goals
 
-The goals for our team is to design an affordable, customizable robot that is made from 3D printed sustainable materials that is straightforward to assemble.
+The goals for our team is to design an affordable, versatile robot that can be made from 3D printed sustainable materials that is straightforward to assemble.
 
 - Affordable
-- Customizable
-- Sustainable Materials
-- 3D printable
+- Versatile
+- Sustainable
+- User friendly
 
-## Specification
+    ## Specification
 
 We will explore design ideas to improve the Curio project, a low-cost educational platform designed to teach programming to undergraduate students. The current Curio robot consists of basic components but can feel limiting at times. We need to identify its positives and limitations through testing with people around us. 
 

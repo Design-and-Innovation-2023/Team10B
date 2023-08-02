@@ -53,4 +53,4 @@ Curio and Smartibot are both great options for users are interested in robotics.
 | **Curio** | - Simple design<br/>- Durable<br/>- Light battery | - Limited customization<br/>- Not as many features as Smartibot<br/>- Lacking instructions on main website |
 | **Smartibot** | - Versatile<br/>- Lots of features<br/>- Easy to customize<br/>- Engaging and educational | - Greater complexity<br/>- Not as durable depending on the material use<br/>- Heavier battery |
 
-We could "steal" some of smartibot strengths by adding more features and making curio customize.
+We could "steal" some of smartibot strengths by adding more features to Curio.

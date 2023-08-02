@@ -1,3 +1,4 @@
+import Link from "@docusaurus/Link";
 import clsx from "clsx";
 import React from "react";
 import styles from "./styles.module.css";
@@ -83,6 +84,43 @@ export default function HomepageFeatures() {
     <>
       <section className={styles.features}>
         <div className="container text--center">
+          <h2>Battlebot (Final Design)</h2>
+          <p>Affordable, Versatile, Sustainable, User-Friendly</p>
+          <div className={styles.prototypeImages}>
+            <img
+              src={
+                require("@site/static/img/third-prototype/front.jpg").default
+              }
+              alt="Curio"
+            />
+            <img
+              src={require("@site/static/img/third-prototype/back.jpg").default}
+              alt="Curio"
+            />
+            <img
+              src={require("@site/static/img/third-prototype/left.jpg").default}
+              alt="Curio"
+            />
+            <img
+              src={
+                require("@site/static/img/third-prototype/right.jpg").default
+              }
+              alt="Curio"
+            />
+          </div>
+          <div className={styles.prototypeButtons}>
+            <Link
+              className="button button--secondary button--lg"
+              to="/docs/prototypes/third-prototype"
+            >
+              Find out more 🔍
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      <section className={styles.features}>
+        <div className="container text--center">
           <h2>
             Revamp Curio Through{" "}
             <b className="text--primary">Design Thinking</b>
@@ -94,9 +132,9 @@ export default function HomepageFeatures() {
           </div>
         </div>
       </section>
-      <section className={clsx(styles.secondaryContainer, styles.features)}>
+      <section className={styles.features}>
         <div className="container text--center">
-          <h2>Design Thinking  <b className="text--primary">Methodogies</b></h2>
+          <h2>Methodogies</h2>
           <div className="row">
             {designThinkingList.map((props, idx) => (
               <Design key={idx} {...props} />

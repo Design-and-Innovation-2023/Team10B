@@ -46,11 +46,13 @@ A rubber band can be slotted into the cramp to hold the device more securely. Th
 
 ![Top view](/img/second-prototype/top.jpeg)
 
-### Test (Guide)
+### Test
 
-The guide to build the rovor-bot can be found [here](/docs/rover-bot-prototype2-instruction.pdf).
+**Guide:**
 
-### Test (Videos)
+The guide to build the rovorbot can be found [here](/docs/rover-bot-prototype2-instruction.pdf).
+
+**Videos:**
 
 We have physically build the prototype this time to test it using cereal boxes from our breakfast😆. 
 
@@ -72,4 +74,4 @@ This idea was not chosen as our final prototype.
 
 ## Learning points
 
-While our prototype successfully fulfills the objectives of sustainability and affordability, it lacks significant customizability. Our efforts to remove any unused space within the car could potentially hinder the turning of the wheels. Furthermore, we acknowledge that the design may appear too basic and require further refinement.
+While our prototype successfully fulfills the objectives of sustainability and affordability, it lacks significant versatility. Our efforts to remove any unused space within the car could potentially hinder the turning of the wheels. Furthermore, we acknowledge that the design may appear too basic and require further refinement.
