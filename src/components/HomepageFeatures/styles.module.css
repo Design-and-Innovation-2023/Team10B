@@ -62,6 +62,12 @@
   }
 }
 
+@media screen and (max-width: 525px) {
+  .prototypeImages .buildImg {
+    width: 50%;
+  }
+}
+
 .secondaryContainer {
   padding: 1rem;
   background-color: var(--ifm-color-secondary-background);
