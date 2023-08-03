@@ -21,6 +21,18 @@
   width: 22%;
 }
 
+.exhibitionImages {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.exhibitionImages img {
+  width: 30%;
+  height: 280px;
+}
+
 .prototypeImages iframe {
   width: 46%;
 }
@@ -55,6 +67,16 @@
 
   .prototypeImages .buildImg {
     width: 35%;
+  }
+
+  .exhibitionImages {
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .exhibitionImages img {
+    width: 90%;
+    height: 100%;
   }
 
   .prototypeButtons {

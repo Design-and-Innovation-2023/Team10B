@@ -150,6 +150,41 @@ export default function HomepageFeatures() {
       </section>
       <section className={styles.features}>
         <div className="container text--center">
+          <h2>Exhibition</h2>
+          <div className={styles.exhibitionImages}>
+            <img
+              src={
+                require("@site/static/img/exhibition/group-photo.jpg").default
+              }
+              alt="Curio"
+            />
+            <img
+              src={require("@site/static/img/exhibition/visitors.jpg").default}
+              alt="Curio"
+            />
+            <img
+              src={require("@site/static/img/exhibition/mathan2.jpg").default}
+              alt="Curio"
+            />
+          </div>
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              marginTop: "1.5em",
+            }}
+          >
+            <Link
+              className="button button--secondary button--lg"
+              to="/docs/final-design/exhibition"
+            >
+              Find Out More 📣
+            </Link>
+          </div>
+        </div>
+      </section>
+      <section className={styles.features}>
+        <div className="container text--center">
           <h2>
             Revamp Curio Through{" "}
             <b className="text--primary">Design Thinking</b>
