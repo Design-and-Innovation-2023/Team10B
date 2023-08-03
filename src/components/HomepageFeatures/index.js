@@ -80,6 +80,7 @@ function Design({ Svg, title, description }) {
 }
 
 export default function HomepageFeatures() {
+  const Svg = require("@site/static/img/undraw_build.svg").default;
   return (
     <>
       <section className={styles.features}>
@@ -108,7 +109,13 @@ export default function HomepageFeatures() {
               alt="Curio"
             />
           </div>
-          <div className={styles.prototypeButtons}>
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              marginTop: "1.5em",
+            }}
+          >
             <Link
               className="button button--secondary button--lg"
               to="/docs/final-design/battle-bot-tutorial"
@@ -141,7 +148,6 @@ export default function HomepageFeatures() {
           </div>
         </div>
       </section>
-
       <section className={styles.features}>
         <div className="container text--center">
           <h2>
@@ -152,6 +158,21 @@ export default function HomepageFeatures() {
             {FeatureList.map((props, idx) => (
               <Feature key={idx} {...props} />
             ))}
+          </div>
+        </div>
+      </section>
+      <section className={styles.features}>
+        <div className="container">
+          <div className={styles.prototypeImages}>
+            <div style={{ padding: "0 1rem" }}>
+              <h2>Explore Various Designs</h2>
+              <p>
+                Students and educators can explore on various robot design with
+                the interchangeable parts which foster critical thinking,
+                problem-solving skills, and a passion for innovation.
+              </p>
+            </div>
+            <Svg className={styles.buildImg} role="img" />
           </div>
         </div>
       </section>

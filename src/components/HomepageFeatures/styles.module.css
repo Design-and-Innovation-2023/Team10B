@@ -12,7 +12,7 @@
 
 .prototypeImages {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   gap: 1rem;
 }
@@ -25,16 +25,22 @@
   width: 46%;
 }
 
+.prototypeImages .buildImg {
+  width: 40%;
+  height: 30%;
+}
+
 .prototypeButtons {
   margin-top: 1.5rem;
   display: flex;
   gap: 1em;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 996px) {
   .prototypeImages {
+    justify-content: center;
     flex-direction: column;
   }
 
@@ -45,6 +51,10 @@
 
   .prototypeImages iframe {
     width: 90%;
+  }
+
+  .prototypeImages .buildImg {
+    width: 35%;
   }
 
   .prototypeButtons {

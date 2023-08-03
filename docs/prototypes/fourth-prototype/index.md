@@ -25,7 +25,7 @@ We use cardboard to make the sketch prototype.
 
 **Front:**
 
-We drew inspiration from the phone holder design of Curio and enhanced it to make it more stable. Specifically, we added a "kerb" to the front of the holder and widened the "wall" on the side to provide better support for the phone. This design allows for greater flexibility in placing the phone at a desired angle.
+We drew inspiration from the phone holder design of Curio and enhanced it to make it more stable. Specifically, we added a "kerb" to the front of the holder and widened the "wall" on the side to provide better support for the phone. 
 
 ![Attachment](/img/fourth-prototype/front-prototype.jpeg)
 

@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "EduCraft",
-  tagline: "Affordable Robotics Education with Endless Possibilities",
+  tagline: "Inspiring Creativity through Robotics",
   favicon: "img/educraft.png",
 
   // Set the production url of your site here
