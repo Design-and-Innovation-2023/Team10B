@@ -8,7 +8,7 @@ Learning from the previous iterations, we focused our efforts on creating a new 
 
 ## Final Design
 
-We have chosen this prototype as the final design for the exhibition based on careful consideration of its features and trade-offs. We believe that this design strikes the best balance between addressing the needs of our client and Curio designer, while keeping the robot's complexity in check. Moreover, we have added gamification and versatility to the design, making it more engaging and appealing to end users. Overall, we are confident that this prototype achieves our [goals](/docs/introduction#goals) effectively and efficiently. Our exhibition poster can be found [here](/docs/final-design/poster).
+We have chosen this prototype as the final design for the exhibition based on careful consideration of its features and trade-offs. We believe that this design strikes the best balance between addressing the needs of our client and Curio designer, while keeping the robot's complexity in check. Moreover, we have added gamification and versatility to the design, making it more engaging and appealing to end users. Overall, we are confident that this prototype achieves our [goals](/docs/introduction#goals) effectively and efficiently. Our exhibition writeup can be found [here](/docs/final-design/exhibition).
 
 ## Design Thinking
 
