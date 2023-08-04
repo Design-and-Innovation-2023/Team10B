@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcuriov2_10b=self.webpackChunkcuriov2_10b||[]).push([[6283],{3891:e=>{e.exports=JSON.parse('{"permalink":"/Team10B/blog/tags/progress-update/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/Team10B/blog/tags/progress-update","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

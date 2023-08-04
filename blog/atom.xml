@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Design-and-Innovation-2023.github.io/Team10B/blog</id>
     <title>EduCraft Blog</title>
-    <updated>2023-08-01T00:00:00.000Z</updated>
+    <updated>2023-08-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Design-and-Innovation-2023.github.io/Team10B/blog"/>
     <subtitle>EduCraft Blog</subtitle>
     <icon>https://Design-and-Innovation-2023.github.io/Team10B/img/educraft.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Progress Update (2023-08-03)]]></title>
+        <id>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-08-03-progress-update</id>
+        <link href="https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-08-03-progress-update"/>
+        <updated>2023-08-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today’s Progress:]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="todays-progress">Today’s Progress:<a href="#todays-progress" class="hash-link" aria-label="Direct link to Today’s Progress:" title="Direct link to Today’s Progress:">​</a></h2><p><strong>Exhibition Day:</strong></p><p>The team had the unique opportunity to present our project, Educraft, at the ARC exhibition. Our chosen prototype to display was the BattleBot version of Educraft, as we felt that it would be engaging for the visitors, especially during the hands-on practice sessions.</p><p><strong>Challenges</strong>: Initially, we faced challenges with our stand placement, located in a less visible corner of the exhibition. However, this turned into a blessing in disguise as the movement of our BattleBot across the floor piqued the curiosity of the attendees, drawing them towards our corner to learn more about our project.</p><p><strong>Visitor Engagement</strong>: Our stand became a bustling point of interest, with visitors keen on learning about our goals and the features we worked on to improve Curio and turn it into Educraft. One notable interaction was with a primary school teacher, who found it intuitive to set up the BattleBot version of Educraft in just 10 minutes. The step-by-step guide was simple enough for his students to follow. He also expressed interest in letting his students play around with it and was concerned about whether there might be complex coding required that could be a little too advanced for them. However, seeing how easily configurable it was on the app for setting up, he was reassured about its simplicity and had fun playing around with the robot.</p><p><strong>Peers’ Interest</strong>: The high level of engagement at our stand didn’t go unnoticed by partners from other teams. We received positive feedback, particularly about our vision of promoting affordability through the use of sustainable, everyday objects. Observing Educraft’s performance throughout the exhibition, they were impressed with its durability and speed.</p><p><strong>Learning Opportunities</strong>: The exhibition provided a rich opportunity for gathering real-time feedback, furthering our understanding of user interactions and needs. It will also be beneficial for the team to continue improving Educraft as part of the design process.</p><p><strong>Final Reflection</strong>: The exhibition was not just an opportunity to showcase our work but also a learning experience. Seeing people interact with and enjoy Educraft was gratifying and a testament to the hard work and dedication our team put into the project.</p>]]></content>
+        <author>
+            <name>Team 10B</name>
+        </author>
+        <category label="progress-update" term="progress-update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Progress Update (2023-08-01)]]></title>
         <id>https://Design-and-Innovation-2023.github.io/Team10B/blog/2023-08-01-progress-update</id>
