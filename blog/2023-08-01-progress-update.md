@@ -19,16 +19,13 @@ We had a constructive consultation session with our professor, focusing on feedb
 
 4. **Website comments**: We were advised to look at landing page designs that prominently feature the final product and its video demonstration.
 
-
 We have also included some images of the prototypes that we have done:
 
 **Prototype 3 (Battlebot):**
 
-
 ![front-dailies](/img/third-prototype/front-dailies.jpeg)
 
 ![side-dailies](/img/third-prototype/side-dailies.jpeg)
-
 
 **Prototype 4 (Modular Design):**
 
